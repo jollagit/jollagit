@@ -7,11 +7,11 @@
   at the theater putting on the next play 🎭​ or planning
   and supporting this student association  (...) 🙋🏽‍♀️​
 
-- ✔️​ I’m currently working on some cool projects in C++, check them out [here](CPP++)
+- ✔️​ I’m currently working on some cool projects in C++, check them out [here](https://github.com/jollagit/42Projects/tree/main/CPP%2B%2B)
 -     trying to master Object-oriented programming (OOP) 😎​
 
 - ✅​ I recently built a team program with (...), to create a 3D game using the Raycasting Technique 🕹️​
--     you can check it out here [here](CUB3D)
+you can check it out here [here]([CUB3D](https://github.com/jollagit/42Projects/tree/main/CUB3D))
 
 - 👩🏽‍🏫​ I’m currently learning these languages:
 - (...)
