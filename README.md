@@ -11,7 +11,7 @@
 -     trying to master Object-oriented programming (OOP) 😎​
 
 - ✅​ I recently built a team program with (...), to create a 3D game using the Raycasting Technique 🕹️​
-- you can check it out here [here](CUB3D)
+-     you can check it out here [here](CUB3D)
 
 - 👩🏽‍🏫​ I’m currently learning these languages:
 - (...)
