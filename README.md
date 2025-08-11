@@ -16,6 +16,6 @@
 
 👩🏽‍🏫​ I’m currently learning:
 
-  - [🇫🇷](https://it.duolingo.com/learn)
   - C++
   - Python , you can find some beginning projects here [Python](https://github.com/jollagit/42Projects/tree/main/discovery_piscine/Rush)
+  - [🇫🇷](https://it.duolingo.com/learn)
