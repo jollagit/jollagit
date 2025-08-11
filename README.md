@@ -8,13 +8,11 @@
   
   ✔️​ I’m currently working on
   
-  - Some cool projects in C++, check them out here [CPP](https://github.com/jollagit/42Projects/tree/main/CPP%2B%2B)
-    ( trying to master Object-oriented programming (OOP) 😎​ )
+  - Some cool projects in C++, check them out here [CPP](https://github.com/jollagit/42Projects/tree/main/CPP%2B%2B). Trying to master Object-oriented       programming (OOP) 😎​ )
     
    ✅​ I recently built
    
-   - A team project with (...), you can check it out here [CUB3D](https://github.com/jollagit/42Projects/tree/main/CUB3D)
-     ( A 3D game based on a 2D map, implemented using the Raycasting technique 🕹️​ )
+   - A team project with (...), you can check it out here [CUB3D](https://github.com/jollagit/42Projects/tree/main/CUB3D). It's a 3D game based on a 2D       map , implemented using the Raycasting technique 🕹️​. Exactely like [Wolfenstein 3D](https://wolfenstein.fandom.com/wiki/Wolfenstein_3D)
 
 👩🏽‍🏫​ I’m currently learning:
 
