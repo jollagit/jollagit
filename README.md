@@ -14,6 +14,6 @@
 you can check it out here [here](https://github.com/jollagit/42Projects/tree/main/CUB3D)
 
 - 👩🏽‍🏫​ I’m currently learning:
-  [🇫🇷](https://it.duolingo.com/learn)
+- [🇫🇷](https://it.duolingo.com/learn)
 - (...)
 -->
