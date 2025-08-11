@@ -14,6 +14,8 @@
 
   you can check it out here [CUB3D](https://github.com/jollagit/42Projects/tree/main/CUB3D)
 
-- 👩🏽‍🏫​ I’m currently learning:  [🇫🇷](https://it.duolingo.com/learn)
--     C++
-- Python , you can find some beginning projects here [Python](https://github.com/jollagit/42Projects/tree/main/discovery_piscine)
+
+👩🏽‍🏫​ I’m currently learning:  
+[🇫🇷](https://it.duolingo.com/learn)
+C++
+Python , you can find some beginning projects here [Python](https://github.com/jollagit/42Projects/tree/main/discovery_piscine)
