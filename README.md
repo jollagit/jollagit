@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Giulia Viganò
 
-  🙇🏽‍♀️​ About me
+  🙇🏽‍♀️​ About me\n:
   I'm a huge fan of C but Python taught me how to relax 🧘🏽‍♀️​
   When i'm not building projects you can find me surfing 🏄‍♀️​,
   at the theater putting on the next play 🎭​ or planning
