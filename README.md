@@ -9,15 +9,15 @@
   ✔️​ I’m currently working on
   
   - Some cool projects in C++, check them out here [CPP](https://github.com/jollagit/42Projects/tree/main/CPP%2B%2B)
-  -     trying to master Object-oriented programming (OOP) 😎​
+    ( trying to master Object-oriented programming (OOP) 😎​ )
     
    ✅​ I recently built
    
    - A team project with (...), you can check it out here [CUB3D](https://github.com/jollagit/42Projects/tree/main/CUB3D)
-   -     which allowed us to create a 3D game using the Raycasting technique 🕹️​
+     ( A 3D game based on a 2D map, implemented using the Raycasting technique 🕹️​ )
 
 👩🏽‍🏫​ I’m currently learning:
 
   - [🇫🇷](https://it.duolingo.com/learn)
   - C++
-  - Python , you can find some beginning projects here [Python](https://github.com/jollagit/42Projects/tree/main/discovery_piscine)
+  - Python , you can find some beginning projects here [Python](https://github.com/jollagit/42Projects/tree/main/discovery_piscine/Rush)
